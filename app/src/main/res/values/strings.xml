@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConstraintLayoutExample</string>
+    <string name="horizontal_chains">Horizontal Chains</string>
+</resources>
